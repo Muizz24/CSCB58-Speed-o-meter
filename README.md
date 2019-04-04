@@ -9,9 +9,11 @@ As per our original project proposal, our code will connect the depth sensor and
   - A speed limit provider depending on the switches giving a certain speed limit that triggers the speed limit detector
   - A conversion system from KM/h to Mi/h by a toggling Dflipflop assigned to a KEY.
 
-Output of the displacement is displayed on HEX0, HEX1, and HEX2
-Output of the speed limit is displayed on HEX4 and HEX5
-Output of the speed is displayed on HEX6 and HEX7
+Output of the displacement is displayed on HEX0, HEX1, and HEX2.
+
+Output of the speed limit is displayed on HEX4 and HEX5.
+
+Output of the speed is displayed on HEX6 and HEX7.
 
 All code is in verilog
 
